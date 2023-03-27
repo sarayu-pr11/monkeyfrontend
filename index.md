@@ -3,14 +3,14 @@ layout: default
 ---
 
 
-<img id ="home" src="images/frontend.png" style="width:900px;height:543px;">
+<img id ="home" src="images/home.png" style="width:900px;height:543px;">
 
 <style>
     #home{
         position:absolute;
         left: 300px;
     }
-    .background{
+    .body{
         color: #322F2F;
     }
 </style>
