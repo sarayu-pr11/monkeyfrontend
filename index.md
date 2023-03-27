@@ -13,7 +13,7 @@ layout: default
         left: 300px;
     }
     body{
-        color: #322F2F;
+        background-color: #322F2F;
     }
 </style>
 
