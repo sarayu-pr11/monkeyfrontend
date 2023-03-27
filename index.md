@@ -10,5 +10,8 @@ layout: default
         position:absolute;
         left: 300px;
     }
+    .background{
+        color: #322F2F;
+    }
 </style>
 
